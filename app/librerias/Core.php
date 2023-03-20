@@ -39,7 +39,6 @@ class Core
         unset($url[1]);
       }
     }
-
     //Para probar traer metodo
     //echo $this->metodoActual;;
 
